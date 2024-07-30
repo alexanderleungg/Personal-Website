@@ -1,0 +1,94 @@
+<!DOCTYPE HTML>
+<!--
+	Story by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Story by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="divided">
+
+				<!-- One -->
+					<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
+						<div class="content">
+							<h1>Alexander Leung</h1>
+							<p class="major">Hello, I am a second year undergraduate student at University of California, Santa Cruz studying Computer Engineering. I am passionate about solving real world problems through the use of code. I am currently searching for an internship.<a</p>
+							<ul class="actions stacked">
+								<li><a href="#first" class="button big wide smooth-scroll-middle">Get Started</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/IMG_0754.JPG" alt="" />
+						</div>
+					</section>
+
+				<!-- Two -->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="first">
+						<div class="content">
+							<h2>Resume/Experiences</h2>
+							<p>Discover my professional journey, technical skills, and achievements. With hands-on experience in software development, machine learning, and FPGA, I bring a robust skill set to every project. Explore my resume to learn more about my academic projects, professional experiences, and technical proficiencies that highlight my commitment to high-quality software development and inoovative problem-solving.</p>
+							<ul class="actions stacked">
+								<li><a href=https://docs.google.com/document/d/1ab6FtRqhKrRi8Xf4Co4ZsW4XZTSL0Wg-oCajI7dhGsQ/edit class="button">Resume</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/IMG_0763.PNG" alt="" />
+						</div>
+					</section>
+
+				<!-- Three -->	
+					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
+						<div class="content">
+							<h2>Projects</h2>
+							<p>Explore my diverse range of projects showcasing my technical expertise and problem solving ablilities. From developing advanced algorithms to utlizing artificial intelligence.</p>
+							<ul class="actions stacked">
+								
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/IMG_0764.PNG" alt="" />
+						</div>
+					</section>
+
+
+				<!-- Five -->
+					<section class="wrapper style1 align-center">
+						<div class="inner">
+							<h2>Contact Me</h2>
+							<p>I'd love to hear from you! Whether you have questions about my work, potential collaboration oppotunities, or just want to connect, feel free to reach out. You can contact me via email or connect with me on LinkedIn and GitHub. Looking forward to your message!</p>
+						</div>
+
+				<!-- Footer -->
+					<footer class="wrapper style1 align-center">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="https://github.com/alexanderleungg" class="icon brands style2 fa-github"><span class="label">Github</span></a></li>
+								<li><a href="https://www.linkedin.com/in/alexander-leung-25a631295/" class="icon brands style2 fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+								<li><a href="mailto:aljaleun@ucsc.edu" class="icon style2 fa-envelope"><span class="label">Email</span></a></li>
+							</ul>
+							<p>&copy; Alexander Leung</a>.</p>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
